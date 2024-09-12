@@ -113,7 +113,7 @@ metadata:
     lang: en
 
     # CACHE
-    # Enable or not browser cache for the playground
+    # Enable or not browser cache for the playground git
     cache: false
 
     # PNG favicon file 
