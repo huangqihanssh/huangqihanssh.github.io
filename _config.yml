@@ -3,9 +3,9 @@
 # More info at https://jekyllrb.com/docs/configuration/options/
 # ---------
 
-title: Qihan Huang # title of the documentation
+title: Qihan Huang
 description: >- # Description of the docs. (>- means to ignore newlines until next param)
-  Just for fun.
+  个人学术简介网站，展示研究方向、论文成果、教学服务与联系方式。
 # IMPORTANT: on Github Pages deploys, url and baseurl must be commented or set to proper settings, otherwise links and resources URL are wrong
 # url: http://192.168.1.54 # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: /Jekyll-LibDoc/_site # the subpath of your site, e.g. /blog
@@ -135,7 +135,7 @@ metadata:
     # THEME COLOR
     # Theme color metadata used in some browsers like Chrome that applies this color on browser address bar.
     # Color must be in HEX, default is LibDoc's color
-    color: '#123456'
+    color: '#27445d'
 
     # IMAGE
     # Open Graph image file for social networks. Can be either relative URL from site root, absolute URL starting with 'http'. Default is LibDoc's splash screen.
@@ -154,7 +154,7 @@ sidebar:
     logo:
         # LOGO URL
         # Image URL: Can be local e.g. '/img/logo.png' or remote 'https://remotesite.com/img/logo.png'
-        url: /assets/libdoc/img/favicon/android-chrome-512x512.png
+        url:
 
         # LOGO MAX HEIGHT
         # Logo image max height, applies only if url is set
@@ -162,43 +162,24 @@ sidebar:
 
         # LOGO FONT SIZE FALLBACK
         # If no logo url, font size of the site title, ignored if url is set
-        font_size: 32px
+        font_size: 28px
 
     # ADDITIONAL LINKS
     # Allows to add links that are not pages included into the project
     # Display additional links anywhere into the sidebar
     additional_links:
-        -   url: https://github.com/olivier3lanc/Jekyll-LibDoc # Local or remote URL
-            title: <span class="i-github u-mr-xxs"></span> View on GitHub # Link text
-            order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
-            # category: Showcase # Add this this link into a category just like pages
-        # -   url: https://www.youtube.com/embed/iWowJBRMtpc # Local or remote URL
-        #     title: Iframe mode example # Link text
-        #     order: 100 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
-        #     iframe_mode: true
-        #     category: Features
-        # Example URL
-        -   url: https://olivier3lanc.github.io/Scroll-Btween/
-            title: Scroll Btween
-            order: 500
-            category: Showcase
-        -   url: https://olivier3lanc.github.io/Scroll-Frames/
-            title: Scroll Frames
-            order: 500
-            category: Showcase
-        -   url: https://olivier3lanc.github.io/seemap/
-            title: SEEMAP
-            order: 500
-            category: Showcase
-        # Example remote URL
-        -   url: https://pages.github.com
-            title: Github Pages
-            order: 510
-            category: External resources
-        -   url: https://jekyllrb.com
-            title: Jekyll
-            order: 510
-            category: External resources
+        -   url: mailto:your.name@university.edu
+            title: 邮件联系
+            order: 100
+            category: 连接
+        -   url: https://scholar.google.com
+            title: Google Scholar
+            order: 110
+            category: 连接
+        -   url: https://github.com
+            title: GitHub
+            order: 120
+            category: 连接
 
 # BADGES
 # Feature that allows to display badges into the footer https://shields.io image html and url
