@@ -1,12 +1,12 @@
 ---
-title: 论文成果
-description: 代表性论文、项目与学术产出展示
+title: Publications
+description: Selected publications, projects, and academic outputs
 order: 3
-category: 学术
+category: Academic
 ---
-## 代表论文
+## Selected Publications
 
-> 下列内容为展示模板，可替换为真实论文题目、作者信息、期刊会议与链接。
+> The entries below are placeholders and can be replaced with your actual titles, co-authors, venues, and links.
 
 ### 2026
 
@@ -18,23 +18,23 @@ category: 学术
 - Huang, Q. *Research Workflow Support through Generative AI Interfaces*. Journal / Conference, 2025.
 - Huang, Q. *Knowledge Organization Strategies for Academic Discovery Systems*. Journal / Conference, 2025.
 
-## 项目与系统
+## Projects and Systems
 
-| 名称 | 类型 | 简介 |
+| Name | Type | Description |
 | --- | --- | --- |
-| Academic Navigator | 平台原型 | 学术主题导航与知识组织系统 |
-| Research Copilot | AI 工具 | 面向研究写作的问答与摘要辅助原型 |
-| Course Knowledge Hub | 教学平台 | 课程资源、阅读材料与学习任务整合平台 |
+| Academic Navigator | Platform prototype | A system for thematic scholarly navigation and knowledge organization |
+| Research Copilot | AI tool | A prototype for question answering and summarization in research writing |
+| Course Knowledge Hub | Teaching platform | An integrated platform for course materials, readings, and learning tasks |
 
-## 奖励与荣誉
+## Honors and Recognition
 
-- 可替换为国家奖学金、优秀论文奖、竞赛奖项等
-- 可替换为优秀毕业生、教学表彰、项目立项等
+- Replace with scholarships, best paper awards, grants, or competition results
+- Replace with graduation honors, teaching distinctions, or funded project records
 
-## 开放资源
+## Open Resources
 
-- 个人简历 PDF
-- 研究数据或代码仓库
-- 课程讲义与公开课材料
+- Curriculum vitae in PDF format
+- Research datasets or code repositories
+- Course handouts and open teaching materials
 
-建议在此页后续补充 DOI、PDF、项目主页或 GitHub 链接，提高学术主页的可用性。
+This page can later be expanded with DOI links, PDFs, project websites, or GitHub repositories.

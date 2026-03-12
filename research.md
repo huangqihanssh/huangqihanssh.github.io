@@ -1,38 +1,38 @@
 ---
-title: 研究方向
-description: 当前研究议题、方法路径与合作兴趣
+title: Research
+description: Research topics, methods, and collaboration interests
 order: 2
-category: 学术
+category: Academic
 ---
-## 研究主题
+## Research Themes
 
-### 1. 学术知识组织
+### 1. Scholarly Knowledge Organization
 
-关注文献、作者、主题与机构等多源数据的结构化表示，探索知识图谱、语义标签与研究地图在学术发现中的应用。
+This line of work focuses on structured representations of publications, authors, topics, and institutions, with particular attention to knowledge graphs, semantic tagging, and research mapping for scholarly discovery.
 
-### 2. 生成式 AI 与科研支持
+### 2. Generative AI for Research Support
 
-研究大语言模型在选题分析、文献综述、知识抽取、研究写作与学术问答中的辅助作用，并关注可解释性与可靠性。
+I study how large language models can support topic exploration, literature review, knowledge extraction, research writing, and scholarly question answering, with an emphasis on interpretability and reliability.
 
-### 3. 智能教育与学习分析
+### 3. Intelligent Education and Learning Analytics
 
-将自然语言处理与学习行为数据结合，设计支持课程教学、学术训练和能力评估的智能系统。
+This area combines natural language processing with learning behavior data to design systems that support teaching, academic training, and capability assessment.
 
-## 方法与技术
+## Methods and Approaches
 
-- 知识图谱构建与语义标注
-- 自然语言处理与信息抽取
-- 大语言模型提示工程与评测
-- 用户研究、可用性测试与原型设计
+- Knowledge graph construction and semantic annotation
+- Natural language processing and information extraction
+- Prompt design and evaluation for large language models
+- User research, usability testing, and prototype design
 
-## 合作兴趣
+## Collaboration Interests
 
-- 面向高校或研究机构的学术资源平台共建
-- 研究型写作与科研训练工具研发
-- 人工智能在教育场景中的应用评估
+- Scholarly resource platforms for universities and research institutes
+- Tools for research writing and academic training
+- Evaluation of AI applications in educational settings
 
-## 未来计划
+## Future Directions
 
-1. 完善学术语料与专题数据集建设。
-2. 结合真实教学场景开展系统验证。
-3. 推动研究成果向开源工具或公共服务转化。
+1. Expanding curated scholarly corpora and domain-specific datasets.
+2. Validating systems in real teaching and research environments.
+3. Translating research outcomes into open tools and public-facing services.

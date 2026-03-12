@@ -1,28 +1,28 @@
 ---
-title: 联系方式
-description: 邮箱、学术主页与合作联系信息
+title: Contact
+description: Email, academic profiles, and collaboration inquiries
 order: 6
-category: 导航
+category: Navigation
 ---
-## 联系方式
+## Contact Information
 
-- 邮箱：`your.name@university.edu`
-- 办公地点：可替换为学院楼、实验室或办公地址
-- 办公时间：可替换为预约制或固定答疑时间
+- Email: `your.name@university.edu`
+- Office: Replace with your department building, lab, or mailing address
+- Office hours: Replace with appointment-based or fixed consultation times
 
-## 在线主页
+## Online Profiles
 
-- Google Scholar：可替换为学者主页链接
-- ORCID：可替换为 ORCID 链接
-- GitHub：可替换为代码仓库链接
-- LinkedIn / 个人主页：可替换为个人公开主页
+- Google Scholar: replace with your scholar profile
+- ORCID: replace with your ORCID record
+- GitHub: replace with your repositories
+- LinkedIn or personal website: replace with your public profile
 
-## 合作说明
+## Collaboration
 
-欢迎邮件联系以下主题：
+Email inquiries are welcome for:
 
-- 研究合作与课题申请
-- 学术讲座与课程分享
-- 学生指导与项目共建
+- Research collaborations and grant-related discussions
+- Invited talks, workshops, and course contributions
+- Student supervision and joint projects
 
-来信建议附上简要背景、研究主题和希望合作的具体方向，以便更快沟通。
+Including a brief background, research topic, and intended scope of collaboration will help make communication more efficient.

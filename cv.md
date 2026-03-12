@@ -1,32 +1,32 @@
 ---
-title: 教育与经历
-description: 教育背景、工作经历与个人履历摘要
+title: CV
+description: Education, appointments, and professional profile
 order: 5
-category: 履历
+category: Profile
 ---
-## 教育背景
+## Education
 
-| 时间 | 学位 / 学校 | 说明 |
+| Years | Degree / Institution | Notes |
 | --- | --- | --- |
-| 20XX - 20XX | 博士 / 某大学 | 可替换为专业、导师与研究方向 |
-| 20XX - 20XX | 硕士 / 某大学 | 可替换为专业、学院或实验室 |
-| 20XX - 20XX | 学士 / 某大学 | 可替换为本科专业与荣誉信息 |
+| 20XX - 20XX | PhD, University Name | Replace with discipline, advisor, and research focus |
+| 20XX - 20XX | MA / MSc, University Name | Replace with program, school, or lab |
+| 20XX - 20XX | BA / BSc, University Name | Replace with undergraduate major and honors |
 
-## 工作经历
+## Appointments
 
-| 时间 | 单位 | 职位 |
+| Years | Institution | Role |
 | --- | --- | --- |
-| 20XX - 至今 | 某学院 / 实验室 | 教师 / 研究人员 |
-| 20XX - 20XX | 某研究机构 | 助研 / 博后 / 工程师 |
+| 20XX - Present | School / Lab Name | Faculty member or researcher |
+| 20XX - 20XX | Research Institute Name | Research assistant, postdoc, or engineer |
 
-## 学术履历亮点
+## Professional Highlights
 
-- 持续开展 AI 与学术知识服务相关研究
-- 参与课程建设、平台设计或跨学科合作项目
-- 具备研究、教学与产品化落地的复合型经验
+- Ongoing work on AI and scholarly knowledge services
+- Experience in course design, platform development, and interdisciplinary collaboration
+- A profile combining research, teaching, and applied system development
 
-## 下载简历
+## CV Download
 
-后续可在此页加入 PDF 简历下载链接，例如：
+You can later add a downloadable PDF version of your CV here, for example:
 
 - `[Curriculum Vitae (PDF)](/assets/cv.pdf)`

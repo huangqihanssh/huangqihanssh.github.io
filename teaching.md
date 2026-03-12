@@ -1,30 +1,30 @@
 ---
-title: 教学与服务
-description: 课程教学、学生指导与学术服务
+title: Teaching
+description: Courses, supervision, and academic service
 order: 4
-category: 学术
+category: Academic
 ---
-## 课程教学
+## Courses
 
-### 可讲授课程
+### Areas of Teaching
 
-- 信息组织与知识管理
-- 数据分析与可视化
-- 人工智能导论
-- 学术写作与研究方法
+- Information organization and knowledge management
+- Data analysis and visualization
+- Introduction to artificial intelligence
+- Academic writing and research methods
 
-## 教学理念
+## Teaching Philosophy
 
-强调问题导向、研究驱动与工具协同，鼓励学生从真实问题出发，结合数据、方法与批判性思维开展学习。
+My teaching emphasizes problem-driven learning, research-oriented inquiry, and thoughtful use of digital tools. Students are encouraged to connect methods, evidence, and critical thinking to real questions.
 
-## 学生指导
+## Student Supervision
 
-- 本科生科研训练
-- 研究生文献阅读与选题设计
-- 学术写作与项目汇报指导
+- Undergraduate research mentoring
+- Graduate reading groups and topic design
+- Academic writing and project presentation guidance
 
-## 学术服务
+## Academic Service
 
-- 会议 / 期刊审稿
-- 学术活动组织与工作坊分享
-- 课程建设与数字资源开发
+- Conference and journal reviewing
+- Academic event organization and workshop contributions
+- Curriculum development and digital resource design

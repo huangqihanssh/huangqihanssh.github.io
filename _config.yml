@@ -5,7 +5,7 @@
 
 title: Qihan Huang
 description: >- # Description of the docs. (>- means to ignore newlines until next param)
-  个人学术简介网站，展示研究方向、论文成果、教学服务与联系方式。
+  A personal academic website presenting research interests, selected publications, teaching activities, and contact information.
 # IMPORTANT: on Github Pages deploys, url and baseurl must be commented or set to proper settings, otherwise links and resources URL are wrong
 # url: http://192.168.1.54 # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: /Jekyll-LibDoc/_site # the subpath of your site, e.g. /blog
@@ -22,6 +22,7 @@ kramdown:
         disable: true
 sass:
     style: compressed
+disable_powered_by_link: true
 # exclude: ['/assets/libdoc/ajax/playground-settings.html']
 
 # ---------
@@ -169,17 +170,17 @@ sidebar:
     # Display additional links anywhere into the sidebar
     additional_links:
         -   url: mailto:your.name@university.edu
-            title: 邮件联系
+            title: Email
             order: 100
-            category: 连接
+            category: Connect
         -   url: https://scholar.google.com
             title: Google Scholar
             order: 110
-            category: 连接
+            category: Connect
         -   url: https://github.com
             title: GitHub
             order: 120
-            category: 连接
+            category: Connect
 
 # BADGES
 # Feature that allows to display badges into the footer https://shields.io image html and url
